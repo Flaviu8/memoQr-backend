@@ -1,0 +1,1 @@
+export const LoginGet = "SELECT * FROM register WHERE email = $1"
